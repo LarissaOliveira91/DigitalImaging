@@ -1,0 +1,34 @@
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\bin\Debug\TotalHealth_Project.exe.config
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\bin\Debug\TotalHealth_Project.exe
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\bin\Debug\TotalHealth_Project.pdb
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.csprojAssemblyReference.cache
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Properties.Resources.resources
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.csproj.GenerateResource.cache
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.csproj.CoreCompileInputs.cache
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.exe
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.pdb
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.csprojAssemblyReference.cache
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.MainForm.resources
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Properties.Resources.resources
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Tabs.Therapist.resources
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.csproj.GenerateResource.cache
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.exe
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.pdb
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\bin\Debug\TotalHealth_Project.exe.config
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\bin\Debug\TotalHealth_Project.exe
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\bin\Debug\TotalHealth_Project.pdb
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\bin\Debug\MdiTabControl.dll
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.csproj.CopyComplete
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Login.resources
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Splash.resources
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Tabs.Patient.resources
+C:\Users\Nikita\Google Drive\NBCC\Database Programming\PROJECT\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Tabs.Report.resources
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\bin\Debug\MdiTabControl.dll
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.MainForm.resources
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Login.resources
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Splash.resources
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Tabs.Patient.resources
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Tabs.Report.resources
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.Tabs.Therapist.resources
+C:\Users\larim\Documents\Lari\NBCC\Database Programming\Projects\TotalHealth_Project\TotalHealth_Project\obj\Debug\TotalHealth_Project.csproj.CopyComplete
